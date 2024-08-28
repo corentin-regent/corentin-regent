@@ -5,8 +5,9 @@
 
 ## :scroll: GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=corentin-regent&show_icons=true&theme=transparent) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corentin-regent&theme=transparent&langs_count=20&size_weight=0.5&count_weight=0.5&layout=compact) |
-| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=corentin-regent&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corentin-regent&theme=transparent&langs_count=20&size_weight=0.5&count_weight=0.5&layout=compact)
 
 ## :mailbox: Contact
 [![Email](https://img.shields.io/badge/Email-corentin.regent.pro%40gmail.com-fff?style=plastic&logo=gmail&logoColor=red)](mailto:corentin.regent.pro@gmail.com)
